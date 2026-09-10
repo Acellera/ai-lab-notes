@@ -1,7 +1,7 @@
 # Blinding key — exp-0 artifacts
 
 Codes are random hex, assigned independently of system identity. They carry no
-order or ranking. Do not expose this file to a reviewer.
+order or ranking. 
 
 | Code | Artifacts                        | System                                              |
 | ---- | -------------------------------- | --------------------------------------------------- |
