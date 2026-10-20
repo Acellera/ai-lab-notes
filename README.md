@@ -100,20 +100,6 @@ CONT_CAT_R013) were added as exploratory probes of a different mechanism. PS_010
 reserve. No compound passed the combined contact-plus-overlap test, so the proposed experiments
 measure binding and interference with complex formation **separately**.
 
-### What this run actually shows
-
-- **Nothing was measured.** There are no binding, inhibition, or cell data for any prioritized
-  compound, and no verified physical material. The output is a testable panel, not a result.
-- **The failures are the content.** A unit error comparing nm distances against Å cutoffs, a
-  selectivity rule that passed every compound, docking labels assigned to the wrong molecules,
-  and a stale summary reporting failures for runs that had since completed — each one changed
-  what the results supported, and each was caught by review rather than by the agent that made it.
-- **Three practices carried the campaign:** every result traceable to the exact molecule and
-  prepared state behind it; analysis rules reviewed alongside the calculations they score; and
-  progress checked against input files and real outputs, not against summaries.
-- **No baseline.** There was no controlled comparison with a manual workflow and no complete
-  GPU/CPU accounting, so this says nothing yet about time, cost, or success rate. The finding
-  register (F01–F45, Appendix A) states the limits of each claim.
 
 ## Contact
 
